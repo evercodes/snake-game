@@ -1,5 +1,5 @@
 # Basic Snake Game
 
-<p aling="center">
+<p align="center">
     <img src="snake.jpg">
 </p>
